@@ -17,6 +17,8 @@ print('Hello')
 
 _this is how you italic_
 
+**more bold**
+
 **_this is is italic and bold_**
 
 * this is bullet point
