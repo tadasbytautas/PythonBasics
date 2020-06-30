@@ -4,10 +4,10 @@
 # Anything else print "Fail"
 # Try to do it both with and without elif statements.
 
-number1 = int(input("give number: "))
-if number1 > 85:
+num = int(input("give number: "))
+if num > 85:
     print("distinction")
-elif 65 < number1 < 85:
+elif 65 < num < 85:
     print("pass")
 else:
     print("fail")
