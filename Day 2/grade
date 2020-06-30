@@ -1,3 +1,4 @@
 def calcGrade(studenName, studentgrade):
     studenName = input("what is student name: ")
     studentgrade = input("what is the " + studenName + " grade: ")
+    # hm
